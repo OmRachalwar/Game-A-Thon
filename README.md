@@ -1,7 +1,7 @@
 # Game-A-Thon
 This repository is for Game-A-Thon (Task 2) held on 12th July 2021.
 # Name: Om Rachalwar 
-**Problem Statement 1: Given an array of ints, return True if the sequence of numbers 1, 2, 3 appears in the array somewhere.**
+# **Problem Statement 1: Given an array of ints, return True if the sequence of numbers 1, 2, 3 appears in the array somewhere.**
 
 **TestCases:**
 
@@ -23,7 +23,7 @@ My Approach:
 		    
 		 
 
-**Problem Statement 2: Given an array of ints, return True if one of the first 4 elements in the array is a 9. The array length may be less than 4.**
+# **Problem Statement 2: Given an array of ints, return True if one of the first 4 elements in the array is a 9. The array length may be less than 4.**
 
 **TestCases:**
 			
